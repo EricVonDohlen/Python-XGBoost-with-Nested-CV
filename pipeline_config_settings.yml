@@ -1,0 +1,6 @@
+n_splits: 5
+top_k_shap: 40
+early_stopping_rounds: 50
+max_interactions: 50
+n_trials: 15
+gpu: true
